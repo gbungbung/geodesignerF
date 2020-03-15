@@ -1,0 +1,33 @@
+.card-inner {
+    margin-left:4rem
+}
+h1,h2,h3 {
+    font-family:'Playfair Display',serif;
+    color:#000
+}
+.gradient {
+    background:linear-gradient(120deg,#110e23,#2d709c);
+    color:#fff;
+    height: 4rem;
+}
+.call-to-action {
+    position: relative;
+    background-color: #343a40;
+    background: url("../img/bg-masthead.jpg") center;
+    background-size: cover;
+    padding-top: 13rem;
+    padding-bottom: 7rem;
+}
+.testimonials {
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+}
+  
+.testimonials .testimonial-item {
+    max-width: 18rem;
+}
+
+.testimonials .testimonial-item img {
+    max-width: 12rem;
+    box-shadow: 0px 5px 5px 0px #adb5bd;
+}
